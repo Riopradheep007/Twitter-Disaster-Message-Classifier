@@ -56,4 +56,4 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
   
  ### Technologies Used
  
- 
+ ![flask ](https://user-images.githubusercontent.com/46066018/88272584-914d3a00-ccf6-11ea-9fc0-91d97930dd5b.png)
