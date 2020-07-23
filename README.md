@@ -6,6 +6,8 @@
    - Technical Aspect
    - Installation
    - Run
+   - Directory Tree
+   - Technologies Used
 
 ![Screenshot from 2020-07-23 12-18-22](https://user-images.githubusercontent.com/46066018/88258887-cea5cd80-ccde-11ea-8a2f-bc9d7cbcee4f.png)
 
@@ -52,3 +54,6 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
       ├── classifier.pkl
       ├── cvx.transform1.pkl
   
+ ### Technologies Used
+ 
+ 
