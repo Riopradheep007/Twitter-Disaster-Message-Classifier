@@ -15,3 +15,40 @@
 ### Motivation
 
 In this pandemic situation i was decide to learn Flask web app.Why i was interested to learning flask is because you know when ever we are creating a Machine Learning model or deep learning model after that we have to deliver project to our client, the project should be easily accessible by people for that we need  a user interface thats why i was started Flask, for the hands on experence i took the project in kaggle.
+
+
+### Technical Aspect
+   1. Training the model using machine learning.
+   
+   2. The text data eas cleaned using NLTK Library.
+       - User have to enter their message in the text area.
+       - After entered the text my model will predict the user is in Emergency situation are not.
+       
+### Installation
+The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command.
+
+    pip install -r requirements.txt
+    
+### Run
+Torun this model In Linux/Mac open Terminal.If you are Windows user open your command prompt.Run the command 
+
+    python app.py
+    
+    
+### Directory Tree
+├── app 
+│   ├── __init__.py
+│   ├── main.py
+│   ├── model
+│   ├── static
+│   └── templates
+├── config
+│   ├── __init__.py
+├── processing
+│   ├── __init__.py
+├── requirements.txt
+├── runtime.txt
+├── LICENSE
+├── Procfile
+├── README.md
+└── wsgi.py
