@@ -8,6 +8,7 @@
    - Run
    - Directory Tree
    - Technologies Used
+   - credits
 
 ![Screenshot from 2020-07-23 12-18-22](https://user-images.githubusercontent.com/46066018/88258887-cea5cd80-ccde-11ea-8a2f-bc9d7cbcee4f.png)
 
@@ -58,3 +59,6 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
  
  ![flask ](https://user-images.githubusercontent.com/46066018/88272584-914d3a00-ccf6-11ea-9fc0-91d97930dd5b.png)
  ![images (1)](https://user-images.githubusercontent.com/46066018/88272969-1fc1bb80-ccf7-11ea-845f-1cffd4b912ca.png)
+### Credits
+
+[Kaggle](https://www.kaggle.com/) - This project wouldn't have been possible without this Kaggle.
