@@ -54,6 +54,8 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
       ├── app.py
       ├── classifier.pkl
       ├── cvx.transform1.pkl
+      ├── requirements.txt
+      
   
  ### Technologies Used
  
