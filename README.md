@@ -36,19 +36,19 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
     
     
 ### Directory Tree
-├── app 
-│   ├── __init__.py
-│   ├── main.py
-│   ├── model
-│   ├── static
-│   └── templates
-├── config
-│   ├── __init__.py
-├── processing
-│   ├── __init__.py
-├── requirements.txt
-├── runtime.txt
-├── LICENSE
-├── Procfile
-├── README.md
-└── wsgi.py
+      ├── Dataset
+      │   ├── sample_submission.csv
+      │   ├── test.csv
+      │   ├── train.csv
+      │   
+      ├── static
+      │   ├──style.css
+      ├── templates
+      │   ├── result.html
+      |   ├── home.html
+      ├── README.md
+      ├── Twitter Disaster Message Classifier.ipynb
+      ├── app.py
+      ├── classifier.pkl
+      ├── cvx.transform1.pkl
+  
