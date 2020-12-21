@@ -61,6 +61,7 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
  
  ![flask ](https://user-images.githubusercontent.com/46066018/88272584-914d3a00-ccf6-11ea-9fc0-91d97930dd5b.png)
  ![images (1)](https://user-images.githubusercontent.com/46066018/88272969-1fc1bb80-ccf7-11ea-845f-1cffd4b912ca.png)
+ 
 ### Credits
 
-[Kaggle](https://www.kaggle.com/) - This project wouldn't have been possible without this Kaggle.
+[Kaggle](https://www.kaggle.com/) - This project wouldn't have been possible without  Kaggle dataset.
