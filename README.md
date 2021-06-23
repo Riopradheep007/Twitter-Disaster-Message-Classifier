@@ -2,10 +2,10 @@
 
 ## Table of content
    -[Overview](#Overview) 
-   -[ Motivation] 
-   -[ Technical Aspect]
-   -[ Installation]
-   -[ Run]
+   -[Motivation](#Motivation) 
+   -[Technical Aspect](#Technical-Aspect) 
+   -[Installation](#Installation) 
+   -[Run](#Run) 
    -[ Directory Tree]
    - [Technologies Used]
    - [credits]
